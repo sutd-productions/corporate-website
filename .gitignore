@@ -1,0 +1,7 @@
+node_modules/
+
+# Minified images
+img/
+
+# Minified css
+css/
